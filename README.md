@@ -1,2 +1,2 @@
 # FoxOS
-This is a OS project from FoxAI lab.
+This is an OS project from FoxAI lab.
